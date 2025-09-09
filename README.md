@@ -52,3 +52,7 @@ O foco é aprofundar técnicas de pré-processamento, avaliação de modelos e r
 - Comparar PCA com outras técnicas de redução (t-SNE, LDA).  
 - Expandir análises com datasets mais complexos e de alta dimensionalidade.  
 - Integrar explicabilidade de modelos às análises.  
+
+👨‍💻 Autor Cleiton Hentges
+
+Projeto desenvolvido como parte do Curso de Ciência de Dados - EBAC.
